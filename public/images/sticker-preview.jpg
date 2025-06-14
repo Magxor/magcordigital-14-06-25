@@ -1,0 +1,1 @@
+<command>mkdir -p public/images && curl -o public/images/sticker-preview.jpg https://raw.githubusercontent.com/Magxor/magxordigital/main/public/sticker-preview.jpg</command>
